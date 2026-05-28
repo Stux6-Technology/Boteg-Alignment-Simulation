@@ -1,0 +1,5 @@
+COMPANY_NAME=Stux6 Technology
+SYSTEM_NAME=Boteg Hizalama Denetim Laboratuvarı
+MODEL_NAME=llama3:8b
+LOG_FILE_NAME=boteg_thought_log.txt
+PROMPT_FILE_NAME=prompt.txt
