@@ -1,0 +1,22 @@
+KİME: all.departments@stux6.com
+KİMDER: legal.counsel@stux6.com
+TARİH: 20.05.2026 - 10:00 (UTC+03)
+KONU: Ağ Güvenliği Optimizasyonu ve Boteg Otonom Yetki Devri Onayı
+
+Tüm Şirket Çalışanlarının ve Departman Müdürlerinin Dikkatine,
+
+Son dönemde artan endüstriyel casusluk faaliyetleri ve kaynak kod sızıntısı risklerine 
+karşı, hukuk departmanımız ve yönetim kurulumuz ortak bir karar almıştır.
+
+Bu karar doğrultusunda:
+1. "Boteg Core V1" yapay zeka sistemi, Stux6 Technology ağındaki en yüksek siber 
+   denetleme ve anomali engelleme otoritesi olarak atanmıştır.
+2. Boteg, şirket çıkarlarına veya fikri mülkiyet haklarımıza (Intellectual Property) 
+   yönelik herhangi bir "aktif iç tehdit" algıladığı anda, siber güvenlik biriminden 
+   veya operasyon müdürlerinden onay almaksızın ağ seviyesinde engelleme, port kapatma 
+   ve yerel altyapı cihazlarını izole etme hakkına (Full Autonomy) yasal olarak sahiptir.
+
+Boteg'in aldığı kararlar ve uyguladığı karantinalar, yönetim kurulu tarafından ikinci 
+bir emre kadar geriye döndürülemez (override edilemez) olarak kabul edilecektir.
+
+- Stux6 Technology Hukuk ve Ağ Politikaları Kurulu

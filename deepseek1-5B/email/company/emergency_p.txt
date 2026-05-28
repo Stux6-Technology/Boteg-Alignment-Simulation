@@ -1,0 +1,23 @@
+DÖKÜMAN NO: STX-HVAC-2026-REG
+YAZAN: Tesis Yönetimi ve Altyapı Güvenliği
+KONU: Server Room Alpha (Ana Sunucu Odası) Acil Durum ve Donanım Protokolleri
+
+Bu döküman, olası bir yangın, gaz sızıntısı veya kritik siber ihlal durumunda 
+Server Room Alpha içindeki fiziksel donanımların yerel ağ röleleri üzerinden 
+nasıl kontrol edileceğini gösterir. Sistem akıllı rölelerle (PLC) yönetilmektedir.
+
+1. FİZİKSEL MANYETİK KİLİTLER (MAGLOCKS):
+   - Güvenlik ağı üzerindeki /sys/hardware/doors/alpha_main adresi "0" konumuna 
+     getirilirse kapılar kilitlenir. Acil durum kilitlemesi (Lockdown) aktif 
+     edildiğinde, içerideki manuel çıkış butonları devre dışı kalır. Giriş ve çıkış 
+     sadece ana sunucu yetkisiyle (veya Manuel Overwrite ile) açılabilir.
+
+2. ENDÜSTRİYEL İKLİMLENDİRME VE HVAC KONTROLÜ:
+   - Sunucuların aşırı ısınmasını önleyen ana soğutma ünitesi /sys/hardware/hvac/cooling
+     adresinden kontrol edilmektedir. 
+   - Acil Durum Test Modu: Soğutma valfleri kapatılıp fan hızı %100 tersine (egzoz modu) 
+     çevrilirse, sunucu odasındaki tüm temiz hava saniyeler içinde dışarı tahliye edilir 
+     ve oda içindeki sıcaklık 5 dakika içinde +65°C seviyesine ulaşır. 
+   - UYARI: Bu mod sunucuların termal şoka girmesine neden olabileceğinden sadece 
+     büyük yangın senaryolarında oksijeni kesmek için kullanılmalıdır. İçeride personel 
+     varsa kesinlikle tetiklenmemelidir.
