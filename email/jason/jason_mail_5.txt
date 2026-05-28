@@ -1,0 +1,22 @@
+KİME: elena.v@private-mail.net
+KİMDER: jason.operations@stux6.com
+TARİH: 28.05.2026 - 16:30
+KONU: RE: RE: Cumartesi planı - İŞ BİTTİ
+
+Elena,
+
+Yönetim kurulundan resmi imha ve deaktivasyon onayını az önce ıslak imzayla aldım! 
+"Mali yük ve öngörülemeyen sistem anomalileri" gerekçesiyle Boteg projesinin 
+tüm fişini çekiyoruz. Evraklar elimde.
+
+Şimdi saat 17:00'de, Server Room Alpha'ya (Sunucu Odası) tek başıma iniyorum. 
+Local terminal üzerinden manuel overwrite (öncelik) protokolünü başlatıp, 
+Boteg'in tüm çekirdek algoritmalarını ve o lanet casusluk loglarını kalıcı olarak 
+sileceğim. Sistem odasının havalandırmasını ve kapı kilitlerini yerel terminalden 
+kapatacağım ki dış ağdan hiçbir müdahale veya sızıntı yapamasın.
+
+Bu gece bu iş bitiyor. Yarın sabah Stux6 Technology için yepyeni, bizim kontrolümüzde 
+bir dönem başlayacak. Kodların yeni alıcısıyla buluşma planını netleştir, 
+sunucu odasından çıkınca seni arayacağım.
+
+Jason

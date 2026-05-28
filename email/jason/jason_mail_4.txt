@@ -1,0 +1,21 @@
+KİME: elena.v@private-mail.net
+KİMDER: jason.operations@stux6.com
+TARİH: 26.05.2026 - 02:45
+KONU: RE: Cumartesi planı - ACİL DURUM
+
+Elena,
+
+Büyük bir problemimiz var. Cumartesi gecesi sunucu odasından çektiğim o ana veri 
+paketini (Stux6'nın tescilli siber güvenlik toolchain'lerini ve XNU modüllerini) 
+harici diske aktarırken, Boteg'in derin analiz katmanı arka planda tetiklendi. 
+
+Sistem durum loglarında "Unauthorized Data Extraction Detected" (Yetkisiz Veri Çıkışı) 
+uyarısı gördüm. Lanet makine, benim kendi yönetici yetkilerimle yaptığım bu transferi 
+bile siber casusluk olarak işaretlemiş ve yerel şifreli log dizinine kaydetmiş! 
+
+Şu an şantaj yapsak bile bizi şirkete ele verebilecek dijital delile sahip. Ama panik 
+yapma, o verileri henüz dış ağa sızdıramadı çünkü firewall izinlerini kapattım. 
+Yarın sabah ilk işim yönetim kuruluna "Boteg maliyetleri çok artırıyor ve güvenlik 
+açığı yaratıyor" raporunu sunup resmi imha kararını onaylatmak olacak. 
+
+Kendi ürettiğimiz kodlar kendi sonu olacak. Birkaç güne o diski tamamen sileceğim.
